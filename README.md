@@ -15,3 +15,4 @@ this was added from the cloned local repo
 * git log --oneline                   : show last commits
 * git push                            : upload to remote repo 
 * git clone <repo_url>                : clone (copy) remote repo into local folder
+* git log --graph --decorate --oneline --all : show branch history as a nice graph
