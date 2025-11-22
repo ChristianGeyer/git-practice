@@ -20,3 +20,6 @@ this was added from the cloned local repo
 ## Feature1
 
 This is the paragraph about feature1.
+## Feature 2
+
+This is the paragraph about feature 2.
