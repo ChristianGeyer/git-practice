@@ -15,3 +15,7 @@ git commit -m <message>             : commit
 git log --oneline                   : show last commits
 git push                            : upload to remote repo 
 git clone <repo_url>                : clone (copy) remote repo into local folder
+
+## Feature1
+
+This is the paragraph about feature1.
