@@ -16,3 +16,7 @@ this was added from the cloned local repo
 * git push                            : upload to remote repo 
 * git clone <repo_url>                : clone (copy) remote repo into local folder
 * git log --graph --decorate --oneline --all : show branch history as a nice graph
+
+## Feature1
+
+This is the paragraph about feature1.
