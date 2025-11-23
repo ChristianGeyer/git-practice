@@ -19,7 +19,7 @@ this was added from the cloned local repo
 * git switch -c <branch_name>         : create new branch <branch_name>
 * git switch <branch_name>            : swicth to branch <branch_name>
 * git branch                          : list local branches
-* git branch -r                       : list pointers to remote branches 
+* git branch -r                       : list pointers to remote branches
 * git branch -d <branch_name>         : delete local branch
 * git push origin --delete <branch_name> : delete remote branch
 * git merge <branch_name>             : merge branch <branch_name> into current branch
@@ -30,3 +30,7 @@ This is the paragraph about feature1.
 ## Feature 2
 
 This is the paragraph about feature 2.
+
+## Feature 3
+
+This is the paragraph about feature 3.
