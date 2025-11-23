@@ -16,6 +16,13 @@ this was added from the cloned local repo
 * git push                            : upload to remote repo 
 * git clone <repo_url>                : clone (copy) remote repo into local folder
 * git log --graph --decorate --oneline --all : show branch history as a nice graph
+* git switch -c <branch_name>         : create new branch <branch_name>
+* git switch <branch_name>            : swicth to branch <branch_name>
+* git branch                          : list local branches
+* git branch -r                       : list pointers to remote branches 
+* git branch -d <branch_name>         : delete local branch
+* git push origin --delete <branch_name> : delete remote branch
+* git merge <branch_name>             : merge branch <branch_name> into current branch
 
 ## Feature1
 
